@@ -1,5 +1,6 @@
 # Profiles
 
+
 Now we can get started on profiles. As explained in the introduction, profiles are essentially the successor to datastore keys. These are much easier to use and make the process of data saving so much easier. Setting the data here is as simple as editing a table. No getter or setter functions, you can make your own.
 
 What we will do first is get the data we can edit from the profile. In order to do this, you must call `PlayerProfile:GetProfileData`.
